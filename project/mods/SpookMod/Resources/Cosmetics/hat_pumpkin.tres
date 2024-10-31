@@ -1,0 +1,30 @@
+[gd_resource type="Resource" load_steps=7 format=2]
+
+[ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=1]
+[ext_resource path="res://Assets/Materials/brown.tres" type="Material" id=2]
+[ext_resource path="res://Assets/Materials/green.tres" type="Material" id=3]
+[ext_resource path="res://mods/SpookMod/Assets/Models/Cosmetics/rig_main_updated.tres" type="Skin" id=4]
+[ext_resource path="res://mods/SpookMod/Assets/Models/pumpkin_hat.tres" type="ArrayMesh" id=5]
+[ext_resource path="res://mods/SpookMod/Assets/Textures/pumpkin_hat_icon.png" type="Texture" id=6]
+
+[resource]
+script = ExtResource( 1 )
+name = "Pumpkin"
+desc = "Stemming"
+title = ""
+icon = ExtResource( 6 )
+mesh = ExtResource( 5 )
+species_alt_mesh = [  ]
+mesh_skin = ExtResource( 4 )
+material = ExtResource( 2 )
+secondary_material = ExtResource( 3 )
+main_color = Color( 1, 1, 1, 1 )
+body_pattern = [  ]
+mirror_face = true
+flip = false
+allow_blink = true
+category = "hat"
+cos_internal_id = 0
+in_rotation = false
+chest_reward = true
+cost = 10
