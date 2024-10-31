@@ -1,0 +1,11 @@
+{
+	"Id": "SpookMod",
+	"PackPath": "SpookMod.pck",
+	"Dependencies": ["Sulayre.Lure"],
+	"Metadata": {
+    "Name": "SpookMod",
+    "Author": "Gloop",
+    "Version": "1.0.0",
+    "Description": "Adds Halloween Cosmetics."
+  }
+}
