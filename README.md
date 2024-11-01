@@ -1,5 +1,7 @@
 # SpookMod
 
+<p align="center"><img src="https://i.imgur.com/9Z4mGrs.png"/></p>
+
 **Adds Halloween cosmetics.**
 
 ## Requires
