@@ -1,6 +1,0 @@
-[gd_resource type="SpatialMaterial" load_steps=2 format=2]
-
-[ext_resource path="res://mods/SpookMod/Assets/Textures/pumpkinmask.png" type="Texture" id=1]
-
-[resource]
-albedo_texture = ExtResource( 1 )
